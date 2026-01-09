@@ -163,4 +163,3 @@ jobs:
         SOURCE_BRANCH: ${{ steps.branch_name.outputs.SOURCE_BRANCH }}
         SOURCE_TAG: ${{ steps.branch_name.outputs.SOURCE_TAG }}
         GITHUB_WORKSPACE: ${{ steps.branch_name.outputs.WORKSPACE }}
-
